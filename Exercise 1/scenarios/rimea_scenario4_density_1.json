@@ -1,0 +1,101 @@
+{
+  "width": 10,
+  "height": 10,
+  "pedestrians": [
+    {
+      "position": [ 3, 4 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 4, 4 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 5, 4 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 6, 4 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 7, 4 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 8, 4 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 3, 5 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 4, 5 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 5, 5 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 6, 5 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 7, 5 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 8, 5 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 3, 3 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 4, 3 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 5, 3 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 6, 3 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 7, 3 ],
+      "desired_distance": 2.00
+    },
+    {
+      "position": [ 8, 3 ],
+      "desired_distance": 2.00
+    }
+  ],
+  "targets": [
+    [ 9, 4 ]
+  ],
+  "obstacles": [
+    [2,2],
+    [3,2],
+    [4,2],
+    [5,2],
+    [6,2],
+    [7,2],
+    [8,2],
+    [8,6],
+    [7,6],
+    [6,6],
+    [5,6],
+    [4,6],
+    [3,6],
+    [2,6],
+    [2,5],
+    [2,4],
+    [2,3]
+  ],
+  "use_dijkstra": false
+}

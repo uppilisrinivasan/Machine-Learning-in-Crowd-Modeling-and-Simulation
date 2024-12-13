@@ -1,0 +1,148 @@
+{
+  "width": 55,
+  "height": 55,
+  "pedestrians": [
+    {
+      "position": [ 36, 47 ],
+      "desired_distance": 2.5
+    },
+    {
+      "position": [ 37, 47 ],
+      "desired_distance": 1.33
+    },
+    {
+      "position": [ 38, 47 ],
+      "desired_distance": 2.5
+    },
+    {
+      "position": [ 39, 47 ],
+      "desired_distance": 1.33
+    },
+    {
+      "position": [ 40, 47 ],
+      "desired_distance": 2.5
+    },
+    {
+      "position": [ 41, 47 ],
+      "desired_distance": 1.33
+    },
+    {
+      "position": [ 42, 47 ],
+      "desired_distance": 2.5
+    },
+    {
+      "position": [ 43, 47 ],
+      "desired_distance": 1.33
+    },
+    {
+      "position": [ 44, 47 ],
+      "desired_distance": 2.5
+    },
+    {
+      "position": [ 36, 48 ],
+      "desired_distance": 1.33
+    },
+    {
+      "position": [ 37, 48 ],
+      "desired_distance": 2.5
+    },
+    {
+      "position": [ 38, 48 ],
+      "desired_distance": 1.33
+    },
+    {
+      "position": [ 39, 48 ],
+      "desired_distance": 2.5
+    },
+    {
+      "position": [ 40, 48 ],
+      "desired_distance": 1.33
+    },
+    {
+      "position": [ 41, 48 ],
+      "desired_distance": 2.5
+    },
+    {
+      "position": [ 42, 48 ],
+      "desired_distance": 1.33
+    },
+    {
+      "position": [ 43, 48 ],
+      "desired_distance": 2.5
+    },
+    {
+      "position": [ 44, 48 ],
+      "desired_distance": 1.33
+    },
+    {
+      "position": [ 39, 48 ],
+      "desired_distance": 2.5
+    },
+    {
+      "position": [ 38, 48 ],
+      "desired_distance": 1.33
+    }
+
+  ],
+  "targets": [
+    [ 48, 38 ]
+  ],
+  "obstacles": [
+    [ 46, 46 ],
+    [ 45, 46 ],
+    [ 44, 46 ],
+    [ 43, 46 ],
+    [ 42, 46 ],
+    [ 41, 46 ],
+    [ 40, 46 ],
+    [ 39, 46 ],
+    [ 38, 46 ],
+    [ 37, 46 ],
+    [ 36, 46 ],
+    [ 35, 46 ],
+    [ 34, 46 ],
+    [ 33, 46 ],
+    [ 46, 36 ],
+    [ 46, 37 ],
+    [ 46, 38 ],
+    [ 46, 39 ],
+    [ 46, 40 ],
+    [ 46, 41 ],
+    [ 46, 42 ],
+    [ 46, 43 ],
+    [ 46, 44 ],
+    [ 46, 45 ],
+    [ 46, 46 ],
+    [ 49, 36 ],
+    [ 49, 37 ],
+    [ 49, 38 ],
+    [ 49, 39 ],
+    [ 49, 40 ],
+    [ 49, 41 ],
+    [ 49, 42 ],
+    [ 49, 43 ],
+    [ 49, 44 ],
+    [ 49, 45 ],
+    [ 49, 46 ],
+    [ 49, 47 ],
+    [ 49, 48 ],
+    [ 49, 49 ],
+    [ 48, 49 ],
+    [ 47, 49 ],
+    [ 46, 49 ],
+    [ 45, 49 ],
+    [ 44, 49 ],
+    [ 43, 49 ],
+    [ 42, 49 ],
+    [ 41, 49 ],
+    [ 40, 49 ],
+    [ 39, 49 ],
+    [ 38, 49 ],
+    [ 37, 49 ],
+    [ 36, 49 ],
+    [ 35, 49 ],
+    [ 34, 49 ],
+    [ 33, 49 ]
+  ],
+  "use_dijkstra": true
+}

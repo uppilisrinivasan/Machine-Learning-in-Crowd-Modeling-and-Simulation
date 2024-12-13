@@ -1,0 +1,31 @@
+{
+  "width": 150,
+  "height": 150,
+  "pedestrians": [
+    {
+      "position": [ 125, 75 ],
+      "desired_distance": 3.0
+    },
+    {
+      "position": [ 90, 27 ],
+      "desired_distance": 3.0
+    },
+    {
+      "position": [ 34, 45 ],
+      "desired_distance": 3.0
+    },
+    {
+      "position": [ 34, 104 ],
+      "desired_distance": 3.0
+    },
+    {
+      "position": [ 90, 122 ],
+      "desired_distance": 3.0
+    }
+  ],
+  "targets": [
+    [ 75, 75 ]
+  ],
+  "obstacles": [],
+  "use_dijkstra": false
+}

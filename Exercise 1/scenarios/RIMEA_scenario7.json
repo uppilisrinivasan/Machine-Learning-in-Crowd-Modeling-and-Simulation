@@ -1,0 +1,272 @@
+{
+  "width": 61,
+  "height": 61,
+  "pedestrians": [
+    {
+      "position": [ 1, 1 ],
+      "desired_distance": 2.6
+    },
+    {
+      "position": [ 1, 2 ],
+      "desired_distance": 2.50
+    },
+    {
+      "position": [ 1, 3 ],
+      "desired_distance": 2.40
+    },
+    {
+      "position": [ 1, 4 ],
+      "desired_distance": 2.41
+    },
+    {
+      "position": [ 1, 5 ],
+      "desired_distance": 2.49
+    },
+    {
+      "position": [ 1, 6 ],
+      "desired_distance": 2.47
+    },
+    {
+      "position": [ 1, 7 ],
+      "desired_distance": 2.46
+    },
+    {
+      "position": [ 1, 8 ],
+      "desired_distance": 2.54
+    },
+    {
+      "position": [ 1, 9 ],
+      "desired_distance": 2.42
+    },
+    {
+      "position": [ 1, 10 ],
+      "desired_distance": 2.56
+    },
+
+    {
+      "position": [ 1, 13 ],
+      "desired_distance": 2.54
+    },
+    {
+      "position": [ 1, 14 ],
+      "desired_distance": 2.49
+    },
+    {
+      "position": [ 1, 15 ],
+      "desired_distance": 2.53
+    },
+    {
+      "position": [ 1, 16 ],
+      "desired_distance": 2.37
+    },
+    {
+      "position": [ 1, 17 ],
+      "desired_distance": 2.58
+    },
+    {
+      "position": [ 1, 18 ],
+      "desired_distance": 2.23
+    },
+    {
+      "position": [ 1, 19 ],
+      "desired_distance": 2.38
+    },
+    {
+      "position": [ 1, 20 ],
+      "desired_distance": 2.31
+    },
+    {
+      "position": [ 1, 21 ],
+      "desired_distance": 2.34
+    },
+    {
+      "position": [ 1, 22 ],
+      "desired_distance": 2.28
+    },
+
+    {
+      "position": [ 1, 25 ],
+      "desired_distance": 2.19
+    },
+    {
+      "position": [ 1, 26 ],
+      "desired_distance": 2.23
+    },
+    {
+      "position": [ 1, 27 ],
+      "desired_distance": 2.36
+    },
+    {
+      "position": [ 1, 28 ],
+      "desired_distance": 2.17
+    },
+    {
+      "position": [ 1, 29 ],
+      "desired_distance": 2.21
+    },
+    {
+      "position": [ 1, 30 ],
+      "desired_distance": 2.33
+    },
+    {
+      "position": [ 1, 31 ],
+      "desired_distance": 2.18
+    },
+    {
+      "position": [ 1, 32 ],
+      "desired_distance": 2.38
+    },
+    {
+      "position": [ 1, 33 ],
+      "desired_distance": 2.37
+    },
+    {
+      "position": [ 1, 34 ],
+      "desired_distance": 2.32
+    },
+
+    {
+      "position": [ 1, 37 ],
+      "desired_distance": 1.91
+    },
+    {
+      "position": [ 1, 38 ],
+      "desired_distance": 1.98
+    },
+    {
+      "position": [ 1, 39 ],
+      "desired_distance": 2.07
+    },
+    {
+      "position": [ 1, 40 ],
+      "desired_distance": 1.87
+    },
+    {
+      "position": [ 1, 41 ],
+      "desired_distance": 2.05
+
+    },
+    {
+      "position": [ 1, 42 ],
+      "desired_distance": 1.81
+    },
+    {
+      "position": [ 1, 43 ],
+      "desired_distance": 2.19
+    },
+    {
+      "position": [ 1, 44 ],
+      "desired_distance": 1.86
+    },
+    {
+      "position": [ 1, 45 ],
+      "desired_distance": 1.96
+    },
+    {
+      "position": [ 1, 46 ],
+      "desired_distance": 1.61
+    },
+
+    {
+      "position": [ 1, 49 ],
+      "desired_distance": 1.85
+    },
+    {
+      "position": [ 1, 50 ],
+      "desired_distance": 1.06
+    },
+    {
+      "position": [ 1, 51 ],
+      "desired_distance": 1.82
+    },
+    {
+      "position": [ 1, 52 ],
+      "desired_distance": 1.81
+    },
+    {
+      "position": [ 1, 53 ],
+      "desired_distance": 1.10
+    },
+    {
+      "position": [ 1, 54 ],
+      "desired_distance": 1.76
+    },
+    {
+      "position": [ 1, 55 ],
+      "desired_distance": 1.83
+    },
+    {
+      "position": [ 1, 56 ],
+      "desired_distance": 2.04
+    },
+    {
+      "position": [ 1, 57 ],
+      "desired_distance": 2.08
+    },
+    {
+      "position": [ 1, 58 ],
+      "desired_distance": 2.01
+    }
+  ],
+
+
+  "targets": [
+    [ 59, 1 ],
+    [ 59, 2 ],
+    [ 59, 3 ],
+    [ 59, 4 ],
+    [ 59, 5 ],
+    [ 59, 6 ],
+    [ 59, 7 ],
+    [ 59, 8 ],
+    [ 59, 9 ],
+    [ 59, 10 ],
+
+    [ 59, 13 ],
+    [ 59, 14 ],
+    [ 59, 15 ],
+    [ 59, 16 ],
+    [ 59, 17 ],
+    [ 59, 18 ],
+    [ 59, 19 ],
+    [ 59, 20 ],
+    [ 59, 21 ],
+    [ 59, 22 ],
+
+    [ 59, 25 ],
+    [ 59, 26 ],
+    [ 59, 27 ],
+    [ 59, 28 ],
+    [ 59, 29 ],
+    [ 59, 30 ],
+    [ 59, 31 ],
+    [ 59, 32 ],
+    [ 59, 33 ],
+    [ 59, 34 ],
+
+    [ 59, 37 ],
+    [ 59, 38 ],
+    [ 59, 39 ],
+    [ 59, 40 ],
+    [ 59, 41 ],
+    [ 59, 42 ],
+    [ 59, 43 ],
+    [ 59, 44 ],
+    [ 59, 45 ],
+    [ 59, 46 ],
+
+    [ 59, 49 ],
+    [ 59, 50 ],
+    [ 59, 51 ],
+    [ 59, 52 ],
+    [ 59, 53 ],
+    [ 59, 54 ],
+    [ 59, 55 ],
+    [ 59, 56 ],
+    [ 59, 57 ],
+    [ 59, 58 ]
+  ],
+  "obstacles": [
+  ],
+  "use_dijkstra": true
+}
